@@ -21,7 +21,7 @@ This project aims to implement an 8-bit binary counter using an Arduino and 8 LE
   </thead>
   <tbody>
     <tr>
-      <td>LED (Red)</td>
+      <td>LED</td>
       <td>8</td>
       <td>Indicator LEDs for binary bits</td>
     </tr>
